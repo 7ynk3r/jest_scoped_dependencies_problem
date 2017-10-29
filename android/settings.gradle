@@ -1,0 +1,3 @@
+rootProject.name = 'jest_scoped_dependencies_problem'
+
+include ':app'
